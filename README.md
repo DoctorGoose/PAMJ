@@ -113,10 +113,6 @@ The Distance Data codebase is maintained by [DoctorGoose](https://github.com/Doc
 
 Contributions to the Distance Data codebase are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/DoctorGoose/PAMJ/issues) on GitHub.
 
-## Support
-
-For support or assistance with using the Distance Data codebase, please contact the maintainer at [doctor.goose@example.com](mailto:doctor.goose@example.com).
-
 ## License
 
 The Distance Data codebase is licensed under the [MIT License](https://github.com/DoctorGoose/PAMJ/blob/main/LICENSE).
